@@ -40,6 +40,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 [MidJourney Prompt Tool](https://prompt.noonshot.com/)
 
+[Midjourney prompt generator - promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)
+
 [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 [AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
