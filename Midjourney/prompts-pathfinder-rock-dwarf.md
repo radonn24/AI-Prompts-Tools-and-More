@@ -41,5 +41,3 @@ https://www.dndbeyond.com/attachments/thumbnails/0/612/320/408/dwarf.png
 /imagine prompt: short dwarf male rouge thief stealthy 22 years old wearing leather armor and a cloak holding a sword wearing a backpack, blurred background, fantasy, pathfinder, dnd character art, detailed character art, character design, character concept, full body art, sharp focus, illustration, sketch, 8k, extreme detail, in the style of Dungeons & Dragons character art, Painting By Gerald Brom --quality 5 --stylize 1000 --chaos 10
 
 /imagine prompt: short dwarf male rouge thief stealthy 22 years old wearing leather armor and a cloak holding a sword wearing a backpack, blurred background, fantasy, pathfinder, dnd character art, detailed character art, character design, character concept, full body art, sharp focus, illustration, sketch, 8k, extreme detail, in the style of Dungeons & Dragons character art, Painting By Gerald Brom --quality 5 --stylize 1000 --chaos 10 --v 4
-
-/imagine prompt: <image_url> Detailed, Masterpiece, Painting By Kandinksey --quality 5 --stylize 1000 --chaos 0 --v 5
