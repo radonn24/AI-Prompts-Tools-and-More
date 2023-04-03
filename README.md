@@ -38,13 +38,15 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
+[AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+
 [MidJourney Prompt Tool](https://prompt.noonshot.com/)
 
 [Midjourney prompt generator - promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)
 
-[willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+[IMI Prompt: Midjourney Prompt Builder](https://www.imiprompt.com/builder)
 
-[AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+[willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 ### Here's how to create insane Midjourney prompts
 
