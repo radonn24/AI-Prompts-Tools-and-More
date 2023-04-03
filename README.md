@@ -16,7 +16,11 @@
 
 ## Prompt Tools / Generators
 
+[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+
 [MidJourney Prompt Tool](https://prompt.noonshot.com/)
+
+[willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 ## Other Bookmarks
 
