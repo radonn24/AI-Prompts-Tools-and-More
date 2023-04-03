@@ -51,7 +51,7 @@
 
 [Midjourney Prompts](https://docs.midjourney.com/docs/prompts)
 
-[MidJourney Account](https://www.midjourney.com/account/)
+[Midjourney Account](https://www.midjourney.com/account/)
 
 [One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
 
@@ -59,7 +59,7 @@
 
 ### Misc
 
-### AI Tool Aggregator Sites
+### AI Tool Indexing Sites
 
 [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 [TopAi.tools Directory](https://topai.tools/)
