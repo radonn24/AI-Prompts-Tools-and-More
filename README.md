@@ -1,4 +1,4 @@
-- [AI-Prompts](#ai-prompts)
+- [AI Prompts, Tools, and More Overview](#ai-prompts-tools-and-more-overview)
   - [Homepage(s)](#homepages)
   - [Prompt Tools / Generators](#prompt-tools--generators)
     - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
@@ -8,8 +8,17 @@
     - [Misc](#misc)
     - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
 
-# AI-Prompts
+# AI Prompts, Tools, and More Overview
 
+Welcome to the AI Prompts, Tools, and More Overview repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
+
+This repository includes prompts to inspire your AI projects, tools to help you implement AI algorithms and models, and links to tutorials and resources to deepen your understanding of AI.
+
+Whether you're an AI enthusiast, a beginner or an experienced AI developer, this repository is a great place to find inspiration and resources to enhance your AI skills.
+
+Please feel free to contribute by adding your own AI prompts, tools, and resources to this repository, and share it with the AI community!
+
+I hope this helps you get started with your Github repository. Good luck!
 ## Homepage(s)
 
 [ChatGPT](https://chat.openai.com/chat)
