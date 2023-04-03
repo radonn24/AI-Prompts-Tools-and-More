@@ -8,6 +8,8 @@
 
 ## Bookmarks
 
+[One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
+
 [ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
 
 [ChatGPT](https://chat.openai.com/chat)
