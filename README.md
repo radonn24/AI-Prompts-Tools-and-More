@@ -1,13 +1,3 @@
-- [AI Prompts, Tools, and More: Overview](#ai-prompts-tools-and-more-overview)
-  - [Homepage(s)](#homepages)
-  - [Prompt Tools / Generators](#prompt-tools--generators)
-    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
-  - [Other Bookmarks](#other-bookmarks)
-    - [ChatGPT](#chatgpt)
-    - [Midjourney](#midjourney)
-    - [Misc](#misc)
-    - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
-
 # AI Prompts, Tools, and More: Overview
 
 Welcome to the AI Prompts, Tools, and More Overview repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
@@ -19,6 +9,17 @@ Whether you're an AI enthusiast, a beginner or an experienced AI developer, this
 Please feel free to contribute by adding your own AI prompts, tools, and resources to this repository, and share it with the AI community!
 
 I hope this helps you get started with your adventures using AI tools and software. Good luck!
+
+- [AI Prompts, Tools, and More: Overview](#ai-prompts-tools-and-more-overview)
+  - [Homepage(s)](#homepages)
+  - [Prompt Tools / Generators](#prompt-tools--generators)
+    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
+  - [Other Bookmarks](#other-bookmarks)
+    - [ChatGPT](#chatgpt)
+    - [Midjourney](#midjourney)
+    - [Misc](#misc)
+    - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
+
 ## Homepage(s)
 
 [ChatGPT](https://chat.openai.com/chat)
