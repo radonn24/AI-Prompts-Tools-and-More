@@ -1,6 +1,6 @@
 # AI Prompts, Tools, and More: Overview
 
-[![AI Generated Audio Intro](/includes/Intro_Bella.mp3)](/includes/Intro_Bella.mp3)
+[![AI Generated Audio Intro](https://github.com/radonn24/AI-Prompts/raw/main/includes/Intro_Bella.mp3)](https://github.com/radonn24/AI-Prompts/raw/main/includes/Intro_Bella.mp3)
 
 Welcome to my AI Prompts repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
 
