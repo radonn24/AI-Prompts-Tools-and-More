@@ -49,15 +49,15 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
 #### Here's how to create insane Midjourney prompts
 
-- Install the [AIPRM Premium for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb) Chrome extension
-- Open [ChatGPT](https://chat.openai.com/chat)
-- Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
-- Re-open ChatGPT
-- In the upper-right Search field, type `Midjourney`
-- Select any of the prompt generators you want to use
-- Type in your keyword(s)
-- Copy / paste the generated prompts into Midjourney
-- ... profit?
+1. Install the [AIPRM Premium for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb) Chrome extension
+2. Open [ChatGPT](https://chat.openai.com/chat)
+3. Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
+4. Re-open ChatGPT
+5. In the upper-right Search field, type `Midjourney`
+6. Select any of the prompt generators you want to use
+7. Type in your keyword(s)
+8. Copy / paste the generated prompts into Midjourney
+9. ... profit?
 ### Misc
 
 ## Other Bookmarks
