@@ -13,16 +13,21 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [AI Prompts, Tools, and More: Overview](#ai-prompts-tools-and-more-overview)
   - [Homepage(s)](#homepages)
   - [Prompt Tools / Generators](#prompt-tools--generators)
-    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
-  - [Other Bookmarks](#other-bookmarks)
     - [ChatGPT](#chatgpt)
     - [Midjourney](#midjourney)
     - [Misc](#misc)
+    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
+  - [Other Bookmarks](#other-bookmarks)
+    - [ChatGPT](#chatgpt-1)
+    - [Midjourney](#midjourney-1)
+    - [Misc](#misc-1)
     - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
 
 ## Homepage(s)
 
 [ChatGPT](https://chat.openai.com/chat)
+
+[DALL-E](https://labs.openai.com/)
 
 [Midjourney](https://www.midjourney.com/)
 
@@ -36,9 +41,13 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Prompt Tools / Generators
 
+### ChatGPT
+
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
 [AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+
+### Midjourney
 
 [MidJourney Prompt Tool](https://prompt.noonshot.com/)
 
@@ -49,6 +58,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
+### Misc
 
 ### Here's how to create insane Midjourney prompts
 
