@@ -1,3 +1,13 @@
+- [AI-Prompts](#ai-prompts)
+  - [Homepage(s)](#homepages)
+  - [Prompt Tools / Generators](#prompt-tools--generators)
+    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
+  - [Other Bookmarks](#other-bookmarks)
+    - [ChatGPT](#chatgpt)
+    - [Midjourney](#midjourney)
+    - [Misc](#misc)
+    - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
+
 # AI-Prompts
 
 ## Homepage(s)
