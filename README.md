@@ -60,6 +60,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 9. ... profit?
 ### Misc
 
+- coming
+
 ## Other Bookmarks
 
 - [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
