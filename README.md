@@ -18,7 +18,7 @@ Whether you're an AI enthusiast, a beginner or an experienced AI developer, this
 
 Please feel free to contribute by adding your own AI prompts, tools, and resources to this repository, and share it with the AI community!
 
-I hope this helps you get started with your Github repository. Good luck!
+I hope this helps you get started with your adventures using AI tools and software. Good luck!
 ## Homepage(s)
 
 [ChatGPT](https://chat.openai.com/chat)
