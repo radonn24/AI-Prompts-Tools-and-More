@@ -41,17 +41,17 @@
 
 ### ChatGPT
 
-[One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
+[f/awesome-chatgpt-prompts at FutureTools.io](https://github.com/f/awesome-chatgpt-prompts)
 
 [PromptGenerator · Chat GPT Users](https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93)
 
-[f/awesome-chatgpt-prompts at FutureTools.io](https://github.com/f/awesome-chatgpt-prompts)
-
 ### Midjourney
+
+[Midjourney Prompts](https://docs.midjourney.com/docs/prompts)
 
 [MidJourney Account](https://www.midjourney.com/account/)
 
-[Midjourney Prompts](https://docs.midjourney.com/docs/prompts)
+[One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
 
 [Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
 
