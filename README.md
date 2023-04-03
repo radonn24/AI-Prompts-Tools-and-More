@@ -22,6 +22,19 @@
 
 [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
+[AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+
+### Here's how to create insane Midjourney prompts
+
+- Install this extension: https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb
+- Open ChatGPT: https://chat.openai.com/chat
+- Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
+- Re-open ChatGPT
+- In the upper-right Search field, type "Midjourney"
+- Select any of the prompt generators you want to use
+- Type in your keywords
+- Copy / paste the generated prompts into Midjourney
+
 ## Other Bookmarks
 
 [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
