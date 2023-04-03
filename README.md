@@ -8,6 +8,8 @@
 
 ## Bookmarks
 
+[ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
+
 [ChatGPT](https://chat.openai.com/chat)
 
 [f/awesome-chatgpt-prompts at FutureTools.io](https://github.com/f/awesome-chatgpt-prompts?ref=FutureTools.io)
