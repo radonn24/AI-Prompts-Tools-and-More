@@ -30,10 +30,11 @@
 - Open [ChatGPT](https://chat.openai.com/chat)
 - Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
 - Re-open ChatGPT
-- In the upper-right Search field, type "Midjourney"
+- In the upper-right Search field, type `Midjourney`
 - Select any of the prompt generators you want to use
-- Type in your keywords
+- Type in your keyword(s)
 - Copy / paste the generated prompts into Midjourney
+- ... profit?
 
 ## Other Bookmarks
 
