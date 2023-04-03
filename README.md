@@ -25,39 +25,28 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Homepage(s)
 
-[ChatGPT](https://chat.openai.com/chat)
-
-[DALL-E](https://labs.openai.com/)
-
-[Midjourney](https://www.midjourney.com/)
-
-[Adobe Firefly](https://firefly.adobe.com)
-
-[Google Bard](https://bard.google.com/)
-
-[Microsoft Bing AI](https://www.bing.com/new)
-
-[Microsoft Designer](https://designer.microsoft.com/)
+- [ChatGPT](https://chat.openai.com/chat)
+- [DALL-E](https://labs.openai.com/)
+- [Midjourney](https://www.midjourney.com/)
+- [Adobe Firefly](https://firefly.adobe.com)
+- [Google Bard](https://bard.google.com/)
+- [Microsoft Bing AI](https://www.bing.com/new)
+- [Microsoft Designer](https://designer.microsoft.com/)
 
 ## Prompt Tools / Generators
 
 ### ChatGPT
 
-[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-
-[AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+- [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+- [AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
 
 ### Midjourney
 
-[MidJourney Prompt Tool](https://prompt.noonshot.com/)
-
-[Midjourney prompt generator - promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)
-
-[IMI Prompt: Midjourney Prompt Builder](https://www.imiprompt.com/builder)
-
-[willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
-
-[PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
+- [MidJourney Prompt Tool](https://prompt.noonshot.com/)
+- [Midjourney prompt generator - promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)
+- [IMI Prompt: Midjourney Prompt Builder](https://www.imiprompt.com/builder)
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+- [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
 #### Here's how to create insane Midjourney prompts
 
 - Install the [AIPRM Premium for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb) Chrome extension
@@ -73,47 +62,33 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Other Bookmarks
 
-[PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
+- [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)
 
 ### ChatGPT
 
-[Reddit: ChatGPT](https://www.reddit.com/r/ChatGPT/)
-
-[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-
-[Ask ChatGPT to generate better ChatGPT prompts](https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93)
+- [Reddit: ChatGPT](https://www.reddit.com/r/ChatGPT/)
+- [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+- [Ask ChatGPT to generate better ChatGPT prompts](https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93)
 
 > I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
 ### Midjourney
 
-[Reddit: Midjourney](https://www.reddit.com/r/midjourney/)
-
-[Midjourney Prompts](https://docs.midjourney.com/docs/prompts)
-
-[Midjourney Account](https://www.midjourney.com/account/)
-
-[One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
-
-[Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
+- [Reddit: Midjourney](https://www.reddit.com/r/midjourney/)
+- [Midjourney Prompts](https://docs.midjourney.com/docs/prompts)
+- [Midjourney Account](https://www.midjourney.com/account/)
+- [One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
+- [Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
 ### AI Tool Indexing Sites
 
-[Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
-[TopAi.tools Directory](https://topai.tools/)
-
-[AI Tools and Applications - Favird](https://favird.com/l/ai-tools-and-applications)
-
-[aiwizard - Discover the Top AI Tools](https://www.aiwizard.ai/)
-
-[aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://aitools.fyi/)
-
-[AI of The Day - Find the Best of AI Everyday!](https://aioftheday.com/)
-
-[Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/)
-
-[DoMore.ai - Your Personalized AI Tools Catalog](https://domore.ai/)
-
-[CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/)
+- [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)- [TopAi.tools Directory](https://topai.tools/)
+- [AI Tools and Applications - Favird](https://favird.com/l/ai-tools-and-applications)
+- [aiwizard - Discover the Top AI Tools](https://www.aiwizard.ai/)
+- [aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://aitools.fyi/)
+- [AI of The Day - Find the Best of AI Everyday!](https://aioftheday.com/)
+- [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/)
+- [DoMore.ai - Your Personalized AI Tools Catalog](https://domore.ai/)
+- [CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/)
 
 ### Misc
 
-[ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
+- [ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
