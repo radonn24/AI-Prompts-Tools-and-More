@@ -36,6 +36,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Prompt Tools / Generators
 
+- [Learn Prompting](https://learnprompting.org/)
+
 ### ChatGPT
 
 - [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
