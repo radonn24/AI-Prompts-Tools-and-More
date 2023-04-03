@@ -20,8 +20,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
   - [Other Bookmarks](#other-bookmarks)
     - [ChatGPT](#chatgpt-1)
     - [Midjourney](#midjourney-1)
-    - [Misc](#misc-1)
     - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
+    - [Misc](#misc-1)
 
 ## Homepage(s)
 
@@ -91,9 +91,6 @@ I hope this helps you get started with your adventures using AI tools and softwa
 [One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
 
 [Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
-
-### Misc
-
 ### AI Tool Indexing Sites
 
 [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
@@ -112,5 +109,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 [DoMore.ai - Your Personalized AI Tools Catalog](https://domore.ai/)
 
 [CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/)
+
+### Misc
 
 [ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
