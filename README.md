@@ -26,8 +26,8 @@
 
 ### Here's how to create insane Midjourney prompts
 
-- Install this extension: https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb
-- Open ChatGPT: https://chat.openai.com/chat
+- Install this [Chrome extension](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+- Open [ChatGPT](https://chat.openai.com/chat)
 - Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
 - Re-open ChatGPT
 - In the upper-right Search field, type "Midjourney"
