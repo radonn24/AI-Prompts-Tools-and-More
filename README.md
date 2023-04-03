@@ -15,8 +15,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
   - [Prompt Tools / Generators](#prompt-tools--generators)
     - [ChatGPT](#chatgpt)
     - [Midjourney](#midjourney)
+      - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
     - [Misc](#misc)
-    - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
   - [Other Bookmarks](#other-bookmarks)
     - [ChatGPT](#chatgpt-1)
     - [Midjourney](#midjourney-1)
@@ -58,9 +58,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 
 [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
-### Misc
-
-### Here's how to create insane Midjourney prompts
+#### Here's how to create insane Midjourney prompts
 
 - Install the [AIPRM Premium for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb) Chrome extension
 - Open [ChatGPT](https://chat.openai.com/chat)
@@ -71,6 +69,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - Type in your keyword(s)
 - Copy / paste the generated prompts into Midjourney
 - ... profit?
+### Misc
 
 ## Other Bookmarks
 
