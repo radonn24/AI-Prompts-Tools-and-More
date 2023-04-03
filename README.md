@@ -28,6 +28,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [ChatGPT](https://chat.openai.com/chat)
 - [DALL-E](https://labs.openai.com/)
 - [Midjourney](https://www.midjourney.com/)
+- [CF Spark](creative-fabrica-spark)
 - [Adobe Firefly](https://firefly.adobe.com)
 - [Google Bard](https://bard.google.com/)
 - [Microsoft Bing AI](https://www.bing.com/new)
