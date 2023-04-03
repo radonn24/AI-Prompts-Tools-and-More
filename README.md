@@ -1,7 +1,5 @@
 # AI Prompts, Tools, and More: Overview
 
-[![AI Generated Audio Intro](https://files.catbox.moe/lfy6m3.mp3)](https://files.catbox.moe/lfy6m3.mp3)
-
 Welcome to my AI Prompts repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
 
 This repository includes prompts to inspire your AI projects, tools to help you implement AI algorithms and models, and links to tutorials and resources to deepen your understanding of AI.
