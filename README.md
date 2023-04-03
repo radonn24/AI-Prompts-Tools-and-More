@@ -1,4 +1,4 @@
-- [AI Prompts, Tools, and More Overview](#ai-prompts-tools-and-more-overview)
+- [AI Prompts, Tools, and More: Overview](#ai-prompts-tools-and-more-overview)
   - [Homepage(s)](#homepages)
   - [Prompt Tools / Generators](#prompt-tools--generators)
     - [Here's how to create insane Midjourney prompts](#heres-how-to-create-insane-midjourney-prompts)
@@ -8,7 +8,7 @@
     - [Misc](#misc)
     - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
 
-# AI Prompts, Tools, and More Overview
+# AI Prompts, Tools, and More: Overview
 
 Welcome to the AI Prompts, Tools, and More Overview repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
 
