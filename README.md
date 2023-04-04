@@ -21,6 +21,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
     - [ChatGPT](#chatgpt-1)
     - [Midjourney](#midjourney-1)
     - [AI Tool Indexing Sites](#ai-tool-indexing-sites)
+    - [Image Upscaling](#image-upscaling)
     - [Misc](#misc-1)
 
 ## Homepage(s)
@@ -92,6 +93,10 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/)
 - [DoMore.ai - Your Personalized AI Tools Catalog](https://domore.ai/)
 - [CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/)
+
+### Image Upscaling
+
+[cjwbw/rudalle-sr – Run with an API on Replicate](https://replicate.com/cjwbw/rudalle-sr)
 
 ### Misc
 
