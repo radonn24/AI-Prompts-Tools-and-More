@@ -85,7 +85,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
 ### AI Tool Indexing Sites
 
-- ⭐ [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)- [TopAi.tools Directory](https://topai.tools/)
+- ⭐ [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
+- [TopAi.tools Directory](https://topai.tools/)
 - [AI Tools and Applications - Favird](https://favird.com/l/ai-tools-and-applications)
 - [aiwizard - Discover the Top AI Tools](https://www.aiwizard.ai/)
 - [aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://aitools.fyi/)
