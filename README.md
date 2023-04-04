@@ -96,7 +96,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ### Image Upscaling
 
-[cjwbw/rudalle-sr – Run with an API on Replicate](https://replicate.com/cjwbw/rudalle-sr)
+- [cjwbw/rudalle-sr – Run with an API on Replicate](https://replicate.com/cjwbw/rudalle-sr)
+- [chaiNNer-org/chaiNNer: A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks.](https://github.com/chaiNNer-org/chaiNNer)
 
 ### Misc
 
