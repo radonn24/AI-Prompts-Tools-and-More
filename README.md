@@ -1,5 +1,7 @@
 # AI Prompts, Tools, and More: Overview
 
+![welcome](https://user-images.githubusercontent.com/13595375/229890742-8e855679-8627-4bd1-9281-69d4200a8775.png)
+
 Welcome to my `AI Prompts, Tools, and More` repository! This repository contains various resources related to Artificial Intelligence (AI) that can help you get started with AI development, explore AI projects, and learn more about AI concepts.
 
 This repository includes prompts to inspire your AI projects, tools to help you implement AI algorithms and models, and links to tutorials and resources to deepen your understanding of AI.
