@@ -42,6 +42,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 ## Prompt Tools / Generators
 
 - [Learn Prompting](https://learnprompting.org/)
+- [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
 
 ### ChatGPT
 
