@@ -43,6 +43,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 - [Learn Prompting](https://learnprompting.org/)
 - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
+- [Ultimate Guide for Building a Startup with ChatGPT Prompts, from Scratch (free, no ads/sign-ups)](https://www.reddit.com/r/ChatGPT/comments/12gjp5b/ultimate_guide_for_building_a_startup_with/)
 
 ### ChatGPT
 
