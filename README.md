@@ -44,10 +44,12 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [Learn Prompting](https://learnprompting.org/)
 - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
 - [Ultimate Guide for Building a Startup with ChatGPT Prompts, from Scratch (free, no ads/sign-ups)](https://www.reddit.com/r/ChatGPT/comments/12gjp5b/ultimate_guide_for_building_a_startup_with/)
+- [Hero Page - List Maker](https://hero.page/)
+- [Hero: Save GPT Prompts, Links & more to lists](https://chrome.google.com/webstore/detail/hero-save-gpt-prompts-lin/mdlfcfindgklmnfjjbeemlhgplfmkame)
 
 ### ChatGPT
 
-- ⭐ [AIPRM Premium for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb)
+- ⭐ [AIPRM for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 - [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
 ### Midjourney
@@ -59,7 +61,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 - [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
 #### Here's how to create insane Midjourney prompts
 
-1. Install the [AIPRM Premium for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-premium-for-chatgpt/igobiphjicbjloclbknnekkckpbknbeb) Chrome extension
+1. Install the [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) Chrome extension
 2. Open [ChatGPT](https://chat.openai.com/chat)
 3. Follow the steps to create an account for AIPRM, and link it to your ChatGPT account
 4. Re-open ChatGPT
