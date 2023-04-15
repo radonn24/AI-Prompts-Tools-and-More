@@ -30,6 +30,7 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Homepage(s)
 
+- ⭐ [Open-Assistant](https://open-assistant.io/)
 - ⭐ [ChatGPT](https://chat.openai.com/chat)
 - ⭐ [DALL-E](https://labs.openai.com/)
 - ⭐ [Midjourney](https://www.midjourney.com/)
