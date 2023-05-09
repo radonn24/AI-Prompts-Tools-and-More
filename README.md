@@ -26,6 +26,8 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Homepage(s)
 
+This section includes links to homepages of some popular AI models and frameworks.
+
 - ⭐ [ChatGPT](https://chat.openai.com/chat)
 - ⭐ [DALL-E](https://labs.openai.com/)
 - ⭐ [Midjourney](https://www.midjourney.com/)
@@ -40,13 +42,15 @@ I hope this helps you get started with your adventures using AI tools and softwa
 
 ## Prompt Tools / Generators
 
+This section includes links to various AI prompt tools and generators.
+
 - ⭐ [Hugging Face](https://huggingface.co/)
 - ⭐ [WebChatGPT: ChatGPT with internet access](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn)
 - ⭐ [ChatGPT Sidebar - Support GPT-4 for Plus user](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb)
 - ⭐ [YouTube & Article Summary powered by ChatGPT](https://chrome.google.com/webstore/detail/youtube-article-summary-p/nmmicjeknamkfloonkhhcjmomieiodli)
 - ⭐ [Superpower ChatGPT](https://github.com/saeedezzati/superpower-chatgpt)
 - ⭐ [WNR.AI - Prompts made easy with AI templates](https://wnr.ai/)
-- ⭐ [Build AI powered Applications
+- ⭐ [Build AI-powered Applications
 without writing a single line of code](https://theforgeai.com/)
 - [Learn Prompting](https://learnprompting.org/)
 - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
@@ -55,6 +59,8 @@ without writing a single line of code](https://theforgeai.com/)
 - [Hero: Save GPT Prompts, Links & more to lists](https://chrome.google.com/webstore/detail/hero-save-gpt-prompts-lin/mdlfcfindgklmnfjjbeemlhgplfmkame)
 
 ### ChatGPT
+
+This section includes links to ChatGPT prompt tools and resources.
 
 - ⭐ [AIPRM for ChatGPT - Chrome Web Store](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 - [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
