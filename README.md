@@ -66,6 +66,7 @@ without writing a single line of code](https://theforgeai.com/)
 - ⭐ [IMI Prompt: Midjourney Prompt Builder](https://www.imiprompt.com/builder)
 - ⭐ [willwulfken/MidJourney-Styles-and-Keywords-Reference: A reference containing Styles and Keywords that you can use with MidJourney AI](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT](https://promptbase.com/)
+
 #### Here's how to create insane Midjourney prompts
 
 1. Install the [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) Chrome extension
@@ -79,7 +80,7 @@ without writing a single line of code](https://theforgeai.com/)
 9. ... profit?
 ### Misc
 
-- coming
+- ... more coming!
 
 ## Other Bookmarks
 
@@ -98,6 +99,7 @@ without writing a single line of code](https://theforgeai.com/)
 - [Midjourney Account](https://www.midjourney.com/account/)
 - [One-Click Midjourney Prompts with ChatGPT](https://medium.com/@charles-ross/one-click-midjourney-prompts-with-chatgpt-844e157d9792)
 - [Midjourney Prompt Generator - a Hugging Face Space by doevent](https://huggingface.co/spaces/doevent/prompt-generator)
+
 ### AI Tool Indexing Sites
 
 - ⭐ [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
@@ -115,7 +117,7 @@ without writing a single line of code](https://theforgeai.com/)
 - ⭐ [upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 - [cjwbw/rudalle-sr – Run with an API on Replicate](https://replicate.com/cjwbw/rudalle-sr)
 - [chaiNNer-org/chaiNNer: A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks.](https://github.com/chaiNNer-org/chaiNNer)
-- 
+
 ### Misc
 
 - ⭐ [ahrefs Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds](https://ahrefs.com/keyword-generator)
